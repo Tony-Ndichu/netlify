@@ -1,5 +1,6 @@
 backend:
     name: test-repo
+    repo: Tony-Ndichu/netlify
   
 media_folder: static/assets
 public_folder: assets
